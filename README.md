@@ -1,13 +1,16 @@
 # Gestion-de-Touriste
 LOGICIEL DE GESTION DE TOURISTE EN JAVA 
 
-Langage :  JAVA 
+# Langage :  
+JAVA 
 
-Interface: Netbeans
+# Interface:
+Netbeans
 
-Base de données : sqlite
+# Base de données : 
+sqlite
 
-Objectif:
+# Objectif:
 
 Gérer les touristes arrivés
 
@@ -20,3 +23,5 @@ Contenu de l'application:
 -Supprimer des touristes
 
 -Rechercher des touristes par nom
+
+
