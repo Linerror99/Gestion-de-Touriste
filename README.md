@@ -9,7 +9,7 @@ Objectif:
 Gérer les touristes arrivés
 
 Contenu de l'application:
--Ajouter touristes
--Rechercher touristes
--Supprimer touristes
--Modifier touristes
+-Ajouter des touristes
+-Modifier des touristes 
+-Supprimer des touristes
+-Rechercher des touristes par nom
