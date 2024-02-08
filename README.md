@@ -24,4 +24,9 @@ Contenu de l'application:
 
 -Rechercher des touristes par nom
 
+# Visuel du logiciel
+
+![Cover](https://github.com/Linerror99/Gestion-de-Touriste/blob/main/gestionTouriste/Visuel%20du%20logiciel.png)
+
+
 
